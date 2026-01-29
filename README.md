@@ -130,6 +130,10 @@ Machine Learning
 
 Computer Vision
 
+# INTERFACE
+<img width="1600" height="761" alt="image" src="https://github.com/user-attachments/assets/19fdc462-6b10-4cb0-bfbe-622c552e016a" />
+
+
 # 📌 Author
 
 Developed as a Deep Learning / CNN practice project for image classification.

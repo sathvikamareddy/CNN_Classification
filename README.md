@@ -1,6 +1,9 @@
 <div align="center">
- # 🐾 Animal Image Classification using CNN
+ 
+# 🐾 Animal Image Classification using CNN
+
 </div>
+
 # 📌 Project Overview
 
 This project implements an Animal Image Classification system using a Convolutional Neural Network (CNN) built with TensorFlow / Keras.
